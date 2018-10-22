@@ -1,3 +1,5 @@
+#Polyphonic Sound Event Detection by using Capsule Neural Networks
+
 This is the source code for the system described in the paper [Polyphonic Sound Event Detection by using Capsule Neural Networks](https://arxiv.org/pdf/1810.06325.pdf).
 
 Requirements
@@ -9,16 +11,16 @@ To install the dependencies, run:
 
 The main functionality of this software also requires the DCASE 2016 Task3 and DCASE 2017 Task 3 datasets, which may be downloaded here:
 
-[DCASE-2016](http://www.cs.tut.fi/sgn/arg/dcase2016/task-sound-event-detection-in-real-life-audio), 
+[DCASE-2016](http://www.cs.tut.fi/sgn/arg/dcase2016/task-sound-event-detection-in-real-life-audio),
 [DCASE-2017](http://www.cs.tut.fi/sgn/arg/dcase2017/challenge/task-sound-event-detection-in-real-life-audio)
 
-# Usage
+## Usage
 
 Using this software, the user is able to extract feature vectors, train the network, generate predictions using the trained network, and evaluate the prediction
 both on the development and the evaluation sets of the respective datasets.
 
-**Features Extraction**
---
+###**Features Extraction**
+
 
 
 To extract feature vectors, run:
@@ -27,15 +29,14 @@ To extract feature vectors, run:
 
 See:
 
-    configs/features/features_params.py 
+    configs/features/features_params.py
 
 
-for tweaking the parameters. By default it extracts monophonic logmel coefficients (40 mel bands). 
+for tweaking the parameters. By default it extracts monophonic logmel coefficients (40 mel bands).
 Please be sure to process all the wav files componing the dataset
 
 
- **Cross-Validation and Evaluation**
---
+###**Cross-Validation and Evaluation**
 
 To execute an experiment, run:
 
