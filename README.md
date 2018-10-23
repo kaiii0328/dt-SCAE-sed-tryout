@@ -19,7 +19,7 @@ The main functionality of this software also requires the DCASE 2016 Task3 and D
 Using this software, the user is able to extract feature vectors, train the network, generate predictions using the trained network, and evaluate the prediction
 both on the development and the evaluation sets of the respective datasets.
 
-###**Features Extraction**
+### **Features Extraction**
 
 
 
@@ -36,7 +36,7 @@ for tweaking the parameters. By default it extracts monophonic logmel coefficien
 Please be sure to process all the wav files componing the dataset
 
 
-###**Cross-Validation and Evaluation**
+### **Cross-Validation and Evaluation**
 
 To execute an experiment, run:
 
