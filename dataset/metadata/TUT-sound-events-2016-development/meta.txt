@@ -1,0 +1,954 @@
+audio/residential_area/a001.wav	residential_area	1.589213	2.383820	people walking	m
+audio/residential_area/a001.wav	residential_area	3.500767	4.156693	people walking	m
+audio/residential_area/a001.wav	residential_area	4.156693	14.003070	car passing by	m
+audio/residential_area/a001.wav	residential_area	6.784142	7.413831	bird singing	m
+audio/residential_area/a001.wav	residential_area	8.508289	11.844138	car passing by	m
+audio/residential_area/a001.wav	residential_area	12.245767	13.467364	bird singing	m
+audio/residential_area/a001.wav	residential_area	14.381632	20.000102	car passing by	m
+audio/residential_area/a001.wav	residential_area	15.165682	18.115393	bird singing	m
+audio/residential_area/a001.wav	residential_area	21.124545	23.703269	bird singing	m
+audio/residential_area/a001.wav	residential_area	21.304456	30.030138	car passing by	m
+audio/residential_area/a001.wav	residential_area	24.610715	25.897808	bird singing	m
+audio/residential_area/a001.wav	residential_area	28.973161	31.117100	bird singing	m
+audio/residential_area/a001.wav	residential_area	32.536710	32.695069	bird singing	m
+audio/residential_area/a001.wav	residential_area	35.862251	43.373534	car passing by	m
+audio/residential_area/a001.wav	residential_area	43.373534	49.445529	car passing by	m
+audio/residential_area/a001.wav	residential_area	70.465126	73.744753	car passing by	m
+audio/residential_area/a001.wav	residential_area	72.339198	77.204290	car passing by	m
+audio/residential_area/a001.wav	residential_area	76.627076	77.721534	people walking	m
+audio/residential_area/a001.wav	residential_area	84.040907	94.610676	people speaking	m
+audio/residential_area/a001.wav	residential_area	89.153377	100.037990	people walking	m
+audio/residential_area/a001.wav	residential_area	99.217530	116.897146	bird singing	m
+audio/residential_area/a001.wav	residential_area	102.976535	106.844621	people speaking	m
+audio/residential_area/a001.wav	residential_area	112.446534	115.485629	people walking	m
+audio/residential_area/a001.wav	residential_area	116.897146	133.958702	car passing by	m
+audio/residential_area/a001.wav	residential_area	118.345954	119.895297	people walking	m
+audio/residential_area/a001.wav	residential_area	129.925698	133.273276	bird singing	m
+audio/residential_area/a001.wav	residential_area	131.753728	133.273276	bird singing	m
+audio/residential_area/a001.wav	residential_area	134.494873	136.014421	bird singing	m
+audio/residential_area/a001.wav	residential_area	134.763029	135.805856	bird singing	m
+audio/residential_area/a001.wav	residential_area	137.077158	143.928767	car passing by	m
+audio/residential_area/a001.wav	residential_area	138.249050	139.341038	bird singing	m
+audio/residential_area/a001.wav	residential_area	140.060682	149.550985	bird singing	m
+audio/residential_area/a001.wav	residential_area	143.928767	153.014271	car passing by	m
+audio/residential_area/a001.wav	residential_area	151.814864	159.611006	bird singing	m
+audio/residential_area/a001.wav	residential_area	153.265757	155.351411	bird singing	m
+audio/residential_area/a001.wav	residential_area	159.386117	168.006851	car passing by	m
+audio/residential_area/a001.wav	residential_area	161.757348	162.591609	bird singing	m
+audio/residential_area/a001.wav	residential_area	168.006851	176.042874	car passing by	m
+audio/residential_area/a001.wav	residential_area	168.878366	169.414677	bird singing	m
+audio/residential_area/a001.wav	residential_area	176.447673	181.050395	bird singing	m
+audio/residential_area/a002.wav	residential_area	2.816400	8.554627	wind blowing	m
+audio/residential_area/a002.wav	residential_area	4.729142	15.573036	bird singing	m
+audio/residential_area/a002.wav	residential_area	16.687547	23.193883	wind blowing	m
+audio/residential_area/a002.wav	residential_area	25.724125	27.742294	bird singing	m
+audio/residential_area/a002.wav	residential_area	33.646192	34.971557	bird singing	m
+audio/residential_area/a002.wav	residential_area	41.869478	43.255087	bird singing	m
+audio/residential_area/a002.wav	residential_area	51.237397	61.004432	wind blowing	m
+audio/residential_area/a002.wav	residential_area	56.117149	57.291904	bird singing	m
+audio/residential_area/a002.wav	residential_area	66.479092	67.774335	bird singing	m
+audio/residential_area/a002.wav	residential_area	67.081531	72.744453	people walking	m
+audio/residential_area/a002.wav	residential_area	74.190305	74.913231	bird singing	m
+audio/residential_area/a002.wav	residential_area	77.082010	78.798960	people walking	m
+audio/residential_area/a002.wav	residential_area	88.407855	89.642854	bird singing	m
+audio/residential_area/a002.wav	residential_area	108.740155	110.005276	wind blowing	m
+audio/residential_area/a002.wav	residential_area	121.060023	121.722705	wind blowing	m
+audio/residential_area/a002.wav	residential_area	123.289046	126.391604	wind blowing	m
+audio/residential_area/a002.wav	residential_area	127.475993	134.554646	wind blowing	m
+audio/residential_area/a002.wav	residential_area	138.771716	142.386347	people walking	m
+audio/residential_area/a002.wav	residential_area	147.898660	152.868778	wind blowing	m
+audio/residential_area/a002.wav	residential_area	148.290245	151.904876	bird singing	m
+audio/residential_area/a002.wav	residential_area	154.886947	157.085847	bird singing	m
+audio/residential_area/a003.wav	residential_area	0.000000	10.182678	bird singing	m
+audio/residential_area/a003.wav	residential_area	0.000000	247.954286	bird singing	m
+audio/residential_area/a003.wav	residential_area	11.845984	15.294301	wind blowing	m
+audio/residential_area/a003.wav	residential_area	24.584473	31.562244	wind blowing	m
+audio/residential_area/a003.wav	residential_area	40.233747	41.156679	wind blowing	m
+audio/residential_area/a003.wav	residential_area	53.956021	61.866866	bird singing	m
+audio/residential_area/a003.wav	residential_area	64.503815	73.226028	bird singing	m
+audio/residential_area/a003.wav	residential_area	106.208168	111.360359	bird singing	m
+audio/residential_area/a003.wav	residential_area	145.518983	151.157996	car passing by	m
+audio/residential_area/a003.wav	residential_area	180.326702	180.732386	(object) banging	m
+audio/residential_area/a003.wav	residential_area	211.320987	216.148631	people speaking	m
+audio/residential_area/a003.wav	residential_area	222.071623	227.994615	car passing by	m
+audio/residential_area/a003.wav	residential_area	230.905400	231.098100	(object) banging	m
+audio/residential_area/a003.wav	residential_area	232.943964	237.731040	car passing by	m
+audio/residential_area/a010.wav	residential_area	0.000000	47.493408	bird singing	m
+audio/residential_area/a010.wav	residential_area	0.138062	5.332654	car passing by	m
+audio/residential_area/a010.wav	residential_area	49.063866	64.440548	bird singing	m
+audio/residential_area/a010.wav	residential_area	60.246907	63.206616	bird singing	m
+audio/residential_area/a010.wav	residential_area	63.206616	85.529554	bird singing	m
+audio/residential_area/a010.wav	residential_area	66.701317	72.413642	bird singing	m
+audio/residential_area/a010.wav	residential_area	77.798069	80.576571	bird singing	m
+audio/residential_area/a010.wav	residential_area	82.380009	82.854598	bird singing	m
+audio/residential_area/a010.wav	residential_area	85.728018	86.470103	bird singing	m
+audio/residential_area/a010.wav	residential_area	89.990690	96.893801	bird singing	m
+audio/residential_area/a010.wav	residential_area	91.000270	93.977237	bird singing	m
+audio/residential_area/a010.wav	residential_area	97.092266	98.731755	bird singing	m
+audio/residential_area/a010.wav	residential_area	99.318519	104.720204	bird singing	m
+audio/residential_area/a010.wav	residential_area	105.591722	109.172711	bird singing	m
+audio/residential_area/a010.wav	residential_area	105.591722	109.457465	bird singing	m
+audio/residential_area/a010.wav	residential_area	110.087374	113.573445	bird singing	m
+audio/residential_area/a010.wav	residential_area	116.429607	129.036415	bird singing	m
+audio/residential_area/a010.wav	residential_area	128.544568	134.481244	car passing by	m
+audio/residential_area/a010.wav	residential_area	133.342231	173.578743	bird singing	m
+audio/residential_area/a010.wav	residential_area	134.161976	135.715176	bird singing	m
+audio/residential_area/a010.wav	residential_area	137.648047	138.424647	bird singing	m
+audio/residential_area/a010.wav	residential_area	141.513789	141.945234	bird singing	m
+audio/residential_area/a010.wav	residential_area	144.646076	146.354597	bird singing	m
+audio/residential_area/a010.wav	residential_area	179.153006	200.414590	bird singing	m
+audio/residential_area/a010.wav	residential_area	181.431033	193.149065	people walking	m
+audio/residential_area/a010.wav	residential_area	194.909358	198.516234	people walking	m
+audio/residential_area/a010.wav	residential_area	200.414590	204.418395	bird singing	m
+audio/residential_area/a010.wav	residential_area	206.730937	209.198799	bird singing	m
+audio/residential_area/a010.wav	residential_area	209.966771	210.355071	bird singing	m
+audio/residential_area/a011.wav	residential_area	0.000000	0.856625	people speaking	m
+audio/residential_area/a011.wav	residential_area	1.757407	2.728838	(object) banging	m
+audio/residential_area/a011.wav	residential_area	2.313772	3.258709	people speaking	m
+audio/residential_area/a011.wav	residential_area	6.853004	21.053558	people speaking	m
+audio/residential_area/a011.wav	residential_area	11.277430	11.674834	children shouting	m
+audio/residential_area/a011.wav	residential_area	12.451978	13.352760	people walking	m
+audio/residential_area/a011.wav	residential_area	25.363179	30.087866	people speaking	m
+audio/residential_area/a011.wav	residential_area	32.966834	53.057792	people speaking	m
+audio/residential_area/a011.wav	residential_area	35.024501	38.989706	car passing by	m
+audio/residential_area/a011.wav	residential_area	46.125308	47.485311	people walking	m
+audio/residential_area/a011.wav	residential_area	49.622459	50.258305	people walking	m
+audio/residential_area/a011.wav	residential_area	51.574152	58.144558	people walking	m
+audio/residential_area/a011.wav	residential_area	55.283252	64.503015	people speaking	m
+audio/residential_area/a011.wav	residential_area	72.592385	73.404855	children shouting	m
+audio/residential_area/a011.wav	residential_area	77.149279	78.579932	children shouting	m
+audio/residential_area/a011.wav	residential_area	79.330584	84.744103	car passing by	m
+audio/residential_area/a011.wav	residential_area	92.029835	97.840759	car passing by	m
+audio/residential_area/a011.wav	residential_area	99.156606	100.304661	(object) banging	m
+audio/residential_area/a011.wav	residential_area	101.788301	103.377915	(object) banging	m
+audio/residential_area/a011.wav	residential_area	103.792981	106.442338	(object) banging	m
+audio/residential_area/a011.wav	residential_area	107.192989	125.508878	people walking	m
+audio/residential_area/a011.wav	residential_area	108.261563	113.365991	car passing by	m
+audio/residential_area/a011.wav	residential_area	120.015878	125.835632	car passing by	m
+audio/residential_area/a011.wav	residential_area	125.835632	127.804988	people walking	m
+audio/residential_area/a011.wav	residential_area	127.548883	131.266814	car passing by	m
+audio/residential_area/a011.wav	residential_area	136.062151	139.479821	people speaking	m
+audio/residential_area/a011.wav	residential_area	137.298517	137.987350	(object) banging	m
+audio/residential_area/a011.wav	residential_area	140.883981	146.421137	people speaking	m
+audio/residential_area/a011.wav	residential_area	148.205038	160.091820	people speaking	m
+audio/residential_area/a011.wav	residential_area	160.347924	164.083518	people walking	m
+audio/residential_area/a011.wav	residential_area	162.591047	169.408726	people speaking	m
+audio/residential_area/a011.wav	residential_area	178.734463	184.518893	people speaking	m
+audio/residential_area/a011.wav	residential_area	184.845647	187.565653	bird singing	m
+audio/residential_area/a011.wav	residential_area	189.808776	193.906448	car passing by	m
+audio/residential_area/a011.wav	residential_area	193.588525	198.622304	car passing by	m
+audio/residential_area/a011.wav	residential_area	201.986987	203.762056	bird singing	m
+audio/residential_area/a011.wav	residential_area	202.322572	206.340764	car passing by	m
+audio/residential_area/a011.wav	residential_area	207.206221	211.330387	people speaking	m
+audio/residential_area/a012.wav	residential_area	0.746354	4.273768	bird singing	m
+audio/residential_area/a012.wav	residential_area	4.096064	5.100089	children shouting	m
+audio/residential_area/a012.wav	residential_area	6.859353	7.525741	children shouting	m
+audio/residential_area/a012.wav	residential_area	9.906967	13.674280	bird singing	m
+audio/residential_area/a012.wav	residential_area	21.884179	22.990383	people speaking	m
+audio/residential_area/a012.wav	residential_area	23.097005	27.130873	children shouting	m
+audio/residential_area/a012.wav	residential_area	26.579992	31.604557	people speaking	m
+audio/residential_area/a012.wav	residential_area	26.619975	28.059373	bird singing	m
+audio/residential_area/a012.wav	residential_area	28.028275	29.769769	bird singing	m
+audio/residential_area/a012.wav	residential_area	31.862227	34.727695	children shouting	m
+audio/residential_area/a012.wav	residential_area	35.656195	40.609679	bird singing	m
+audio/residential_area/a012.wav	residential_area	39.139183	57.527046	people speaking	m
+audio/residential_area/a012.wav	residential_area	41.156117	43.537343	children shouting	m
+audio/residential_area/a012.wav	residential_area	44.199288	45.780849	children shouting	m
+audio/residential_area/a012.wav	residential_area	48.348664	56.029895	bird singing	m
+audio/residential_area/a012.wav	residential_area	48.721841	50.378926	children shouting	m
+audio/residential_area/a012.wav	residential_area	52.924527	55.443474	children shouting	m
+audio/residential_area/a012.wav	residential_area	57.527046	195.202787	people speaking	m
+audio/residential_area/a012.wav	residential_area	62.747085	65.474833	bird singing	m
+audio/residential_area/a012.wav	residential_area	63.937698	65.332670	children shouting	m
+audio/residential_area/a012.wav	residential_area	66.247843	68.304760	children shouting	m
+audio/residential_area/a012.wav	residential_area	71.028065	76.021532	bird singing	m
+audio/residential_area/a012.wav	residential_area	80.259759	85.111063	bird singing	m
+audio/residential_area/a012.wav	residential_area	88.025399	88.949457	bird singing	m
+audio/residential_area/a012.wav	residential_area	89.473683	91.170750	children shouting	m
+audio/residential_area/a012.wav	residential_area	92.210315	93.152144	children shouting	m
+audio/residential_area/a012.wav	residential_area	93.472010	100.286937	children shouting	m
+audio/residential_area/a012.wav	residential_area	120.660636	121.638005	children shouting	m
+audio/residential_area/a012.wav	residential_area	134.166098	134.699208	children shouting	m
+audio/residential_area/a012.wav	residential_area	137.533578	147.182875	bird singing	m
+audio/residential_area/a012.wav	residential_area	147.369464	152.078605	bird singing	m
+audio/residential_area/a012.wav	residential_area	164.580042	166.499239	children shouting	m
+audio/residential_area/a012.wav	residential_area	191.537654	192.186271	children shouting	m
+audio/residential_area/a012.wav	residential_area	194.638579	196.540006	bird singing	m
+audio/residential_area/a012.wav	residential_area	206.518054	212.888722	children shouting	m
+audio/residential_area/a012.wav	residential_area	210.791822	211.413784	(object) banging	m
+audio/residential_area/a012.wav	residential_area	211.769191	215.092245	bird singing	m
+audio/residential_area/a012.wav	residential_area	212.408923	213.732814	people speaking	m
+audio/residential_area/a013.wav	residential_area	0.000000	24.311453	bird singing	m
+audio/residential_area/a013.wav	residential_area	5.664090	12.229286	bird singing	m
+audio/residential_area/a013.wav	residential_area	5.756040	8.771984	people walking	m
+audio/residential_area/a013.wav	residential_area	25.028659	25.534382	bird singing	m
+audio/residential_area/a013.wav	residential_area	28.798590	141.271242	bird singing	m
+audio/residential_area/a013.wav	residential_area	34.058102	37.165996	bird singing	m
+audio/residential_area/a013.wav	residential_area	46.250608	49.413672	bird singing	m
+audio/residential_area/a013.wav	residential_area	49.505621	64.125595	bird singing	m
+audio/residential_area/a013.wav	residential_area	77.513445	78.193872	bird singing	m
+audio/residential_area/a013.wav	residential_area	88.234759	89.117475	bird singing	m
+audio/residential_area/a013.wav	residential_area	107.764837	109.144080	people walking	m
+audio/residential_area/a013.wav	residential_area	145.831938	224.798186	bird singing	m
+audio/residential_area/a013.wav	residential_area	159.936995	161.408187	bird singing	m
+audio/residential_area/a013.wav	residential_area	205.488787	206.647351	(object) banging	m
+audio/residential_area/b002.wav	residential_area	4.376468	20.098304	car passing by	m
+audio/residential_area/b002.wav	residential_area	22.384103	32.865326	car passing by	m
+audio/residential_area/b002.wav	residential_area	29.408753	37.562364	people walking	m
+audio/residential_area/b002.wav	residential_area	32.271019	36.309675	bird singing	m
+audio/residential_area/b002.wav	residential_area	40.938155	43.636053	wind blowing	m
+audio/residential_area/b002.wav	residential_area	45.295957	58.335793	car passing by	m
+audio/residential_area/b002.wav	residential_area	49.667358	52.230835	car passing by	m
+audio/residential_area/b002.wav	residential_area	51.088043	54.004395	bird singing	m
+audio/residential_area/b002.wav	residential_area	55.892944	59.646606	car passing by	m
+audio/residential_area/b002.wav	residential_area	62.679723	64.591189	bird singing	m
+audio/residential_area/b002.wav	residential_area	64.203435	65.601536	bird singing	m
+audio/residential_area/b002.wav	residential_area	67.163477	70.407509	bird singing	m
+audio/residential_area/b002.wav	residential_area	68.332203	70.167211	people walking	m
+audio/residential_area/b002.wav	residential_area	70.460320	70.782661	wind blowing	m
+audio/residential_area/b002.wav	residential_area	72.144213	76.414976	wind blowing	m
+audio/residential_area/b002.wav	residential_area	73.465856	83.427328	car passing by	m
+audio/residential_area/b002.wav	residential_area	75.388245	75.705003	bird singing	m
+audio/residential_area/b002.wav	residential_area	77.285717	77.574827	bird singing	m
+audio/residential_area/b002.wav	residential_area	78.381056	87.031808	wind blowing	m
+audio/residential_area/b002.wav	residential_area	83.449173	85.131264	bird singing	m
+audio/residential_area/b002.wav	residential_area	93.279573	103.874560	wind blowing	m
+audio/residential_area/b002.wav	residential_area	98.556519	101.852417	bird singing	m
+audio/residential_area/b002.wav	residential_area	105.000496	131.240827	wind blowing	m
+audio/residential_area/b002.wav	residential_area	116.607666	130.676270	car passing by	m
+audio/residential_area/b002.wav	residential_area	123.147605	124.715008	bird singing	m
+audio/residential_area/b002.wav	residential_area	132.923392	133.589675	bird singing	m
+audio/residential_area/b002.wav	residential_area	135.858859	136.216576	bird singing	m
+audio/residential_area/b002.wav	residential_area	148.892331	152.529579	wind blowing	m
+audio/residential_area/b002.wav	residential_area	157.111637	171.048960	car passing by	m
+audio/residential_area/b002.wav	residential_area	162.201600	165.303637	wind blowing	m
+audio/residential_area/b002.wav	residential_area	166.564941	188.537598	bird singing	m
+audio/residential_area/b002.wav	residential_area	167.393699	168.838485	wind blowing	m
+audio/residential_area/b002.wav	residential_area	169.585323	186.690219	wind blowing	m
+audio/residential_area/b002.wav	residential_area	191.463424	197.247710	bird singing	m
+audio/residential_area/b002.wav	residential_area	191.757202	197.247710	wind blowing	m
+audio/residential_area/b002.wav	residential_area	195.037842	197.247710	bird singing	m
+audio/residential_area/b003.wav	residential_area	0.415706	18.222455	people walking	m
+audio/residential_area/b003.wav	residential_area	7.682240	18.141393	car passing by	m
+audio/residential_area/b003.wav	residential_area	22.651799	30.392237	car passing by	m
+audio/residential_area/b003.wav	residential_area	47.822773	48.421389	bird singing	m
+audio/residential_area/b003.wav	residential_area	50.728555	51.246109	bird singing	m
+audio/residential_area/b003.wav	residential_area	56.163906	56.749012	bird singing	m
+audio/residential_area/b003.wav	residential_area	60.574987	67.817776	bird singing	m
+audio/residential_area/b003.wav	residential_area	71.436543	71.796727	bird singing	m
+audio/residential_area/b003.wav	residential_area	79.546691	80.781323	bird singing	m
+audio/residential_area/b003.wav	residential_area	79.931874	86.134202	car passing by	m
+audio/residential_area/b003.wav	residential_area	84.130501	93.700044	car passing by	m
+audio/residential_area/b003.wav	residential_area	84.392395	100.517616	people walking	m
+audio/residential_area/b003.wav	residential_area	97.339793	97.840049	bird singing	m
+audio/residential_area/b003.wav	residential_area	100.997756	108.100086	car passing by	m
+audio/residential_area/b003.wav	residential_area	104.397189	104.871093	bird singing	m
+audio/residential_area/b003.wav	residential_area	124.538206	124.927405	(object) banging	m
+audio/residential_area/b003.wav	residential_area	126.628776	127.563254	(object) banging	m
+audio/residential_area/b003.wav	residential_area	129.860196	145.343152	car passing by	m
+audio/residential_area/b003.wav	residential_area	132.710387	133.034552	(object) banging	m
+audio/residential_area/b003.wav	residential_area	140.181647	149.545935	car passing by	m
+audio/residential_area/b003.wav	residential_area	152.335320	152.437558	people walking	m
+audio/residential_area/b003.wav	residential_area	167.733056	172.742308	car passing by	m
+audio/residential_area/b003.wav	residential_area	191.773311	199.776683	car passing by	m
+audio/residential_area/b003.wav	residential_area	199.292386	201.462369	people walking	m
+audio/residential_area/b003.wav	residential_area	205.097715	211.487110	car passing by	m
+audio/residential_area/b003.wav	residential_area	205.441711	211.058414	car passing by	m
+audio/residential_area/b003.wav	residential_area	217.039898	227.923071	car passing by	m
+audio/residential_area/b003.wav	residential_area	225.148200	225.292774	(object) banging	m
+audio/residential_area/b003.wav	residential_area	226.296260	226.756495	bird singing	m
+audio/residential_area/b003.wav	residential_area	231.220779	234.450184	car passing by	m
+audio/residential_area/b004.wav	residential_area	10.406380	14.872192	car passing by	m
+audio/residential_area/b004.wav	residential_area	38.159323	38.343667	people speaking	m
+audio/residential_area/b004.wav	residential_area	39.897614	40.616818	people speaking	m
+audio/residential_area/b004.wav	residential_area	41.563206	42.046137	people speaking	m
+audio/residential_area/b004.wav	residential_area	51.182823	57.165323	people walking	m
+audio/residential_area/b004.wav	residential_area	59.882048	67.903876	people walking	m
+audio/residential_area/b004.wav	residential_area	76.732373	76.872638	bird singing	m
+audio/residential_area/b004.wav	residential_area	78.490764	79.453940	people speaking	m
+audio/residential_area/b004.wav	residential_area	88.222828	95.409038	bird singing	m
+audio/residential_area/b004.wav	residential_area	89.402829	90.110830	bird singing	m
+audio/residential_area/b004.wav	residential_area	90.825686	95.706950	bird singing	m
+audio/residential_area/b004.wav	residential_area	96.553079	97.939145	bird singing	m
+audio/residential_area/b004.wav	residential_area	97.599015	98.676441	people speaking	m
+audio/residential_area/b004.wav	residential_area	99.527033	105.343631	bird singing	m
+audio/residential_area/b004.wav	residential_area	103.781150	110.247559	car passing by	m
+audio/residential_area/b004.wav	residential_area	109.559168	113.643308	people speaking	m
+audio/residential_area/b004.wav	residential_area	112.434600	127.794915	bird singing	m
+audio/residential_area/b004.wav	residential_area	123.900688	125.684354	people speaking	m
+audio/residential_area/b004.wav	residential_area	126.301903	128.459594	people speaking	m
+audio/residential_area/b004.wav	residential_area	130.312686	131.268573	people speaking	m
+audio/residential_area/b004.wav	residential_area	132.513526	133.469413	people speaking	m
+audio/residential_area/b004.wav	residential_area	137.111404	142.994801	car passing by	m
+audio/residential_area/b004.wav	residential_area	142.758926	143.143251	people speaking	m
+audio/residential_area/b004.wav	residential_area	143.796934	144.499888	people speaking	m
+audio/residential_area/b004.wav	residential_area	145.817107	148.254454	people speaking	m
+audio/residential_area/b004.wav	residential_area	149.106184	150.622483	children shouting	m
+audio/residential_area/b004.wav	residential_area	149.108512	150.100532	people speaking	m
+audio/residential_area/b004.wav	residential_area	151.493302	152.406486	people speaking	m
+audio/residential_area/b004.wav	residential_area	152.512664	154.465158	children shouting	m
+audio/residential_area/b004.wav	residential_area	154.544913	156.052655	people speaking	m
+audio/residential_area/b007.wav	residential_area	0.000000	4.539980	bird singing	m
+audio/residential_area/b007.wav	residential_area	2.998534	6.771626	people speaking	m
+audio/residential_area/b007.wav	residential_area	5.278110	7.521259	bird singing	m
+audio/residential_area/b007.wav	residential_area	5.410399	16.461263	car passing by	m
+audio/residential_area/b007.wav	residential_area	13.972709	36.668776	people walking	m
+audio/residential_area/b007.wav	residential_area	14.555545	19.187552	people speaking	m
+audio/residential_area/b007.wav	residential_area	14.981168	21.357846	bird singing	m
+audio/residential_area/b007.wav	residential_area	20.119321	21.607085	people speaking	m
+audio/residential_area/b007.wav	residential_area	21.886999	29.229957	car passing by	m
+audio/residential_area/b007.wav	residential_area	22.235934	22.350967	bird singing	m
+audio/residential_area/b007.wav	residential_area	23.171538	36.028424	people speaking	m
+audio/residential_area/b007.wav	residential_area	23.294240	25.786628	bird singing	m
+audio/residential_area/b007.wav	residential_area	28.359539	38.704865	car passing by	m
+audio/residential_area/b007.wav	residential_area	31.446265	35.871212	bird singing	m
+audio/residential_area/b007.wav	residential_area	36.672611	40.415027	bird singing	m
+audio/residential_area/b007.wav	residential_area	39.234018	48.869973	people speaking	m
+audio/residential_area/b007.wav	residential_area	65.584309	67.309808	bird singing	m
+audio/residential_area/b007.wav	residential_area	75.285449	77.578446	bird singing	m
+audio/residential_area/b007.wav	residential_area	78.981852	80.507960	bird singing	m
+audio/residential_area/b007.wav	residential_area	84.595476	85.431385	bird singing	m
+audio/residential_area/b007.wav	residential_area	90.270452	92.954562	bird singing	m
+audio/residential_area/b007.wav	residential_area	92.410071	98.798252	people walking	m
+audio/residential_area/b007.wav	residential_area	99.944751	101.873475	car passing by	m
+audio/residential_area/b007.wav	residential_area	100.078956	101.965502	bird singing	m
+audio/residential_area/b007.wav	residential_area	106.758555	109.036214	bird singing	m
+audio/residential_area/b007.wav	residential_area	109.481010	111.252522	bird singing	m
+audio/residential_area/b007.wav	residential_area	111.996404	117.180571	car passing by	m
+audio/residential_area/b007.wav	residential_area	113.315453	115.516423	bird singing	m
+audio/residential_area/b007.wav	residential_area	117.824757	121.682207	bird singing	m
+audio/residential_area/b007.wav	residential_area	121.847088	123.269666	car passing by	m
+audio/residential_area/b007.wav	residential_area	123.837164	127.579580	bird singing	m
+audio/residential_area/b007.wav	residential_area	126.398571	128.407819	bird singing	m
+audio/residential_area/b007.wav	residential_area	134.090464	136.015354	bird singing	m
+audio/residential_area/b007.wav	residential_area	135.509207	142.618264	car passing by	m
+audio/residential_area/b007.wav	residential_area	141.276209	153.998890	car passing by	m
+audio/residential_area/b007.wav	residential_area	141.866713	143.737921	bird singing	m
+audio/residential_area/b007.wav	residential_area	149.612288	151.652211	bird singing	m
+audio/residential_area/b007.wav	residential_area	156.483609	158.868633	bird singing	m
+audio/residential_area/b007.wav	residential_area	158.906977	159.681535	bird singing	m
+audio/residential_area/b007.wav	residential_area	160.038138	163.013665	bird singing	m
+audio/residential_area/b007.wav	residential_area	163.201553	165.256814	bird singing	m
+audio/residential_area/b007.wav	residential_area	165.352675	167.032161	bird singing	m
+audio/residential_area/b007.wav	residential_area	169.325158	181.001036	car passing by	m
+audio/residential_area/b007.wav	residential_area	173.531542	175.306889	bird singing	m
+audio/residential_area/b007.wav	residential_area	182.672853	183.635298	bird singing	m
+audio/residential_area/b007.wav	residential_area	183.658305	186.043329	bird singing	m
+audio/residential_area/b007.wav	residential_area	192.124755	194.605639	bird singing	m
+audio/residential_area/b007.wav	residential_area	195.288170	197.519816	bird singing	m
+audio/residential_area/b007.wav	residential_area	203.509215	205.875067	bird singing	m
+audio/residential_area/b007.wav	residential_area	205.372755	211.994837	car passing by	m
+audio/residential_area/b007.wav	residential_area	205.901908	206.795333	bird singing	m
+audio/residential_area/b007.wav	residential_area	210.399709	210.706464	bird singing	m
+audio/residential_area/b007.wav	residential_area	212.171222	214.234152	bird singing	m
+audio/residential_area/b007.wav	residential_area	214.433543	216.810897	bird singing	m
+audio/residential_area/b009.wav	residential_area	5.254877	12.923712	car passing by	m
+audio/residential_area/b009.wav	residential_area	19.902845	30.806714	car passing by	m
+audio/residential_area/b009.wav	residential_area	39.559368	45.701005	car passing by	m
+audio/residential_area/b009.wav	residential_area	45.701005	52.795088	car passing by	m
+audio/residential_area/b009.wav	residential_area	53.484791	61.876172	car passing by	m
+audio/residential_area/b009.wav	residential_area	67.131048	72.878569	car passing by	m
+audio/residential_area/b009.wav	residential_area	72.878569	76.934677	car passing by	m
+audio/residential_area/b009.wav	residential_area	82.312715	82.374296	(object) banging	m
+audio/residential_area/b009.wav	residential_area	83.761911	83.839913	(object) banging	m
+audio/residential_area/b009.wav	residential_area	95.991816	108.192982	car passing by	m
+audio/residential_area/b009.wav	residential_area	106.756102	113.874817	car passing by	m
+audio/residential_area/b009.wav	residential_area	112.930582	119.507388	car passing by	m
+audio/residential_area/b009.wav	residential_area	156.603532	157.490293	people walking	m
+audio/residential_area/b009.wav	residential_area	173.123551	175.656565	bird singing	m
+audio/residential_area/b009.wav	residential_area	176.424270	178.470798	bird singing	m
+audio/residential_area/b009.wav	residential_area	180.521432	189.187872	car passing by	m
+audio/residential_area/b009.wav	residential_area	192.410590	194.102003	bird singing	m
+audio/residential_area/b009.wav	residential_area	195.965842	203.289826	car passing by	m
+audio/residential_area/b009.wav	residential_area	197.759890	198.424960	bird singing	m
+audio/residential_area/b009.wav	residential_area	205.303512	205.991161	bird singing	m
+audio/residential_area/b009.wav	residential_area	207.584046	214.899819	car passing by	m
+audio/residential_area/b009.wav	residential_area	221.187197	221.761949	bird singing	m
+audio/residential_area/b009.wav	residential_area	223.102353	226.805399	people walking	m
+audio/residential_area/b009.wav	residential_area	227.484838	228.455759	bird singing	m
+audio/residential_area/b009.wav	residential_area	228.468075	230.689081	bird singing	m
+audio/home/a030.wav	home	5.940996	6.282603	(object) snapping	m
+audio/home/a030.wav	home	10.159102	10.693792	object impact	m
+audio/home/a030.wav	home	12.127057	12.490943	object impact	m
+audio/home/a030.wav	home	14.956456	15.364900	object impact	m
+audio/home/a030.wav	home	17.837839	18.261135	(object) snapping	m
+audio/home/a030.wav	home	18.751267	19.189416	object impact	m
+audio/home/a030.wav	home	23.310981	23.697146	object impact	m
+audio/home/a030.wav	home	28.761845	29.185141	(object) snapping	m
+audio/home/a030.wav	home	31.932851	32.430410	(object) snapping	m
+audio/home/a030.wav	home	33.447805	33.819117	(object) snapping	m
+audio/home/a030.wav	home	33.945364	35.556859	drawer	m
+audio/home/a030.wav	home	49.733559	50.149429	object impact	m
+audio/home/a030.wav	home	51.902023	52.392155	object impact	m
+audio/home/a030.wav	home	52.607516	52.926845	(object) snapping	m
+audio/home/a030.wav	home	52.993681	53.394698	drawer	m
+audio/home/a030.wav	home	53.520944	55.971605	object impact	m
+audio/home/a030.wav	home	56.513721	56.959295	(object) snapping	m
+audio/home/a030.wav	home	57.687067	58.333151	drawer	m
+audio/home/a030.wav	home	58.444544	58.904971	object impact	m
+audio/home/a030.wav	home	58.934676	59.736711	drawer	m
+audio/home/a030.wav	home	59.825826	60.353089	(object) snapping	m
+audio/home/a030.wav	home	61.088287	61.459599	(object) snapping	m
+audio/home/a030.wav	home	113.071999	113.695803	object impact	m
+audio/home/a030.wav	home	126.624895	127.211568	drawer	m
+audio/home/a030.wav	home	127.909635	128.659686	object impact	m
+audio/home/a030.wav	home	131.073215	131.875250	object impact	m
+audio/home/a030.wav	home	132.268841	132.877793	object impact	m
+audio/home/a030.wav	home	168.041060	168.583176	object impact	m
+audio/home/a030.wav	home	172.704742	173.499350	object impact	m
+audio/home/a030.wav	home	173.699859	179.885920	object impact	m
+audio/home/a031.wav	home	0.879372	1.522274	object impact	m
+audio/home/a031.wav	home	2.261242	4.411638	people walking	m
+audio/home/a031.wav	home	4.685056	5.305789	object impact	m
+audio/home/a031.wav	home	5.379686	7.145819	people walking	m
+audio/home/a031.wav	home	6.517696	6.901960	object impact	m
+audio/home/a031.wav	home	8.409454	10.692865	water tap running 	m
+audio/home/a031.wav	home	12.658519	14.542887	water tap running 	m
+audio/home/a031.wav	home	20.476799	20.979297	object impact	m
+audio/home/a031.wav	home	22.361167	22.723261	object impact	m
+audio/home/a031.wav	home	23.388332	23.979506	object impact	m
+audio/home/a031.wav	home	24.748033	25.065789	object impact	m
+audio/home/a031.wav	home	25.361376	26.144682	water tap running 	m
+audio/home/a031.wav	home	26.758025	27.134899	object impact	m
+audio/home/a031.wav	home	28.280299	31.923411	water tap running 	m
+audio/home/a031.wav	home	33.726492	35.751264	washing dishes	m
+audio/home/a031.wav	home	35.751264	36.157696	washing dishes	m
+audio/home/a031.wav	home	37.066627	41.086612	washing dishes	m
+audio/home/a031.wav	home	41.973373	42.283740	glass jingling	m
+audio/home/a031.wav	home	42.187674	48.468901	washing dishes	m
+audio/home/a031.wav	home	42.978369	43.177891	(object) snapping	m
+audio/home/a031.wav	home	50.249813	52.769693	people walking	m
+audio/home/a031.wav	home	50.501062	53.050501	washing dishes	m
+audio/home/a031.wav	home	53.198295	53.981601	object impact	m
+audio/home/a031.wav	home	54.727958	61.718594	water tap running 	m
+audio/home/a031.wav	home	65.369095	66.965266	cutlery	m
+audio/home/a031.wav	home	69.507315	70.290621	dishes	m
+audio/home/a031.wav	home	71.635542	74.458399	water tap running 	m
+audio/home/a031.wav	home	77.946328	79.993269	object impact	m
+audio/home/a031.wav	home	81.057382	97.669379	washing dishes	m
+audio/home/a031.wav	home	97.721107	99.250770	dishes	m
+audio/home/a031.wav	home	99.428123	103.861930	washing dishes	m
+audio/home/a031.wav	home	104.497442	104.896485	(object) snapping	m
+audio/home/a031.wav	home	107.327689	118.308751	water tap running 	m
+audio/home/a031.wav	home	120.747345	122.653882	cutlery	m
+audio/home/a031.wav	home	131.624951	133.169394	water tap running 	m
+audio/home/a031.wav	home	133.590606	135.253283	object impact	m
+audio/home/a031.wav	home	135.423246	136.021810	object impact	m
+audio/home/a031.wav	home	140.108302	140.729035	object impact	m
+audio/home/a031.wav	home	142.170022	155.700524	washing dishes	m
+audio/home/a031.wav	home	142.421272	142.812924	dishes	m
+audio/home/a031.wav	home	149.892236	154.865490	dishes	m
+audio/home/a031.wav	home	155.700524	156.469050	washing dishes	m
+audio/home/a031.wav	home	156.823755	157.547943	dishes	m
+audio/home/a031.wav	home	157.392760	162.284727	washing dishes	m
+audio/home/a031.wav	home	162.624652	164.058250	dishes	m
+audio/home/a031.wav	home	163.976963	167.043680	washing dishes	m
+audio/home/a031.wav	home	167.376215	167.775258	(object) snapping	m
+audio/home/a031.wav	home	168.654630	177.640479	water tap running 	m
+audio/home/a034.wav	home	0.000000	3.670232	people walking	m
+audio/home/a034.wav	home	8.341436	8.645435	people walking	m
+audio/home/a034.wav	home	16.060045	16.690287	object impact	m
+audio/home/a034.wav	home	25.528502	27.055911	people walking	m
+audio/home/a034.wav	home	27.055911	27.582349	drawer	m
+audio/home/a034.wav	home	27.930835	28.590735	drawer	m
+audio/home/a034.wav	home	28.701955	29.940194	people walking	m
+audio/home/a034.wav	home	29.102344	29.702927	object impact	m
+audio/home/a034.wav	home	30.244193	31.208093	object impact	m
+audio/home/a034.wav	home	31.252580	32.980184	object impact	m
+audio/home/a034.wav	home	33.907011	34.381546	object impact	m
+audio/home/a034.wav	home	34.833837	39.712650	(object) rustling	m
+audio/home/a034.wav	home	40.965719	42.159471	people walking	m
+audio/home/a034.wav	home	42.241032	43.634979	object impact	m
+audio/home/a034.wav	home	43.953807	45.340339	people walking	m
+audio/home/a034.wav	home	46.393214	47.824233	water tap running 	m
+audio/home/a034.wav	home	48.988327	49.314570	object impact	m
+audio/home/a034.wav	home	48.988327	51.131149	water tap running 	m
+audio/home/a034.wav	home	52.769778	54.260115	water tap running 	m
+audio/home/a034.wav	home	54.704991	57.871030	people walking	m
+audio/home/a034.wav	home	68.555482	74.153513	object impact	m
+audio/home/a034.wav	home	74.368537	75.799556	(object) rustling	m
+audio/home/a034.wav	home	77.163844	78.365011	(object) rustling	m
+audio/home/a034.wav	home	79.395642	80.774759	(object) rustling	m
+audio/home/a034.wav	home	81.968512	84.341187	object impact	m
+audio/home/a034.wav	home	86.313473	88.945659	object impact	m
+audio/home/a034.wav	home	89.805754	90.398923	object impact	m
+audio/home/a034.wav	home	91.859601	92.274819	cupboard	m
+audio/home/a034.wav	home	93.090426	93.691010	cupboard	m
+audio/home/a034.wav	home	108.297791	108.779741	object impact	m
+audio/home/a034.wav	home	125.892660	127.479387	people walking	m
+audio/home/a034.wav	home	136.643844	138.719935	object impact	m
+audio/home/a034.wav	home	146.008497	146.809274	drawer	m
+audio/home/a034.wav	home	148.499806	149.611997	cutlery	m
+audio/home/a034.wav	home	171.514754	171.967046	object impact	m
+audio/home/a036.wav	home	4.061150	9.865986	water tap running 	m
+audio/home/a036.wav	home	5.044768	9.262402	object impact	m
+audio/home/a036.wav	home	13.755747	14.202846	(object) snapping	m
+audio/home/a036.wav	home	16.661891	17.131345	object impact	m
+audio/home/a036.wav	home	18.785612	19.165646	(object) snapping	m
+audio/home/a036.wav	home	35.894602	37.712805	(object) snapping	m
+audio/home/a036.wav	home	37.004898	38.338743	object impact	m
+audio/home/a036.wav	home	38.748584	39.508653	object impact	m
+audio/home/a036.wav	home	40.499722	41.334307	object impact	m
+audio/home/a036.wav	home	57.683229	58.689202	object impact	m
+audio/home/a036.wav	home	59.374754	59.985789	(object) snapping	m
+audio/home/a036.wav	home	61.200408	61.789089	object impact	m
+audio/home/a036.wav	home	62.750352	63.301774	object impact	m
+audio/home/a036.wav	home	63.592388	64.710136	object impact	m
+audio/home/a036.wav	home	68.346541	69.002287	object impact	m
+audio/home/a036.wav	home	69.732548	70.835393	object impact	m
+audio/home/a036.wav	home	71.245233	72.087270	people walking	m
+audio/home/a036.wav	home	72.355529	72.869693	object impact	m
+audio/home/a036.wav	home	73.249728	73.778795	object impact	m
+audio/home/a036.wav	home	73.510535	85.783404	water tap running 	m
+audio/home/a036.wav	home	86.260310	88.525612	water tap running 	m
+audio/home/a036.wav	home	88.659741	92.705988	people walking	m
+audio/home/a036.wav	home	89.293132	89.814747	(object) snapping	m
+audio/home/a036.wav	home	91.357239	92.050243	object impact	m
+audio/home/a036.wav	home	110.299335	112.646605	object impact	m
+audio/home/a036.wav	home	114.621293	116.499109	object impact	m
+audio/home/a036.wav	home	121.819588	124.554343	object impact	m
+audio/home/a036.wav	home	125.627381	127.408326	object impact	m
+audio/home/a036.wav	home	136.909180	140.120842	(object) rustling	m
+audio/home/a036.wav	home	141.655882	142.564983	object impact	m
+audio/home/a036.wav	home	144.934608	146.283357	object impact	m
+audio/home/a036.wav	home	150.255087	151.626191	water tap running 	m
+audio/home/a036.wav	home	151.864644	152.580002	water tap running 	m
+audio/home/a036.wav	home	155.709695	158.377386	people walking	m
+audio/home/a036.wav	home	158.377386	160.046556	object impact	m
+audio/home/a036.wav	home	168.302985	170.553384	water tap running 	m
+audio/home/a038.wav	home	0.726097	3.008114	object impact	m
+audio/home/a038.wav	home	14.729388	15.218391	object impact	m
+audio/home/a038.wav	home	17.670820	18.774783	object impact	m
+audio/home/a038.wav	home	19.411969	19.752790	object impact	m
+audio/home/a038.wav	home	23.220272	24.679874	object impact	m
+audio/home/a038.wav	home	29.095727	29.525457	object impact	m
+audio/home/a038.wav	home	29.762550	33.378215	object impact	m
+audio/home/a038.wav	home	37.067971	37.608839	object impact	m
+audio/home/a038.wav	home	38.386799	38.816530	object impact	m
+audio/home/a038.wav	home	47.507461	47.833464	object impact	m
+audio/home/a038.wav	home	50.930488	51.767722	object impact	m
+audio/home/a038.wav	home	53.234733	53.686691	object impact	m
+audio/home/a038.wav	home	55.546387	55.931663	object impact	m
+audio/home/a038.wav	home	58.117362	59.799239	(object) rustling	m
+audio/home/a038.wav	home	58.576729	59.665874	object impact	m
+audio/home/a038.wav	home	60.147469	60.792065	object impact	m
+audio/home/a038.wav	home	60.658700	65.319054	(object) rustling	m
+audio/home/a038.wav	home	67.645527	68.430897	object impact	m
+audio/home/a038.wav	home	68.393851	68.890264	(object) snapping	m
+audio/home/a038.wav	home	69.186630	69.549678	object impact	m
+audio/home/a038.wav	home	69.668225	70.209093	object impact	m
+audio/home/a038.wav	home	73.069024	73.743257	object impact	m
+audio/home/a038.wav	home	75.891910	78.188746	object impact	m
+audio/home/a038.wav	home	78.900024	79.552029	object impact	m
+audio/home/a038.wav	home	81.989639	82.397142	object impact	m
+audio/home/a038.wav	home	82.989874	83.345513	object impact	m
+audio/home/a038.wav	home	83.930836	84.953298	object impact	m
+audio/home/a038.wav	home	85.583076	86.331400	object impact	m
+audio/home/a038.wav	home	91.184392	91.888262	object impact	m
+audio/home/a038.wav	home	93.066316	94.244371	object impact	m
+audio/home/a038.wav	home	94.800057	96.400433	object impact	m
+audio/home/a038.wav	home	97.415486	98.393494	object impact	m
+audio/home/a038.wav	home	98.852861	102.631527	object impact	m
+audio/home/a038.wav	home	103.365033	106.788060	object impact	m
+audio/home/a038.wav	home	108.017978	109.173805	object impact	m
+audio/home/a038.wav	home	110.270359	111.729962	object impact	m
+audio/home/a038.wav	home	117.205323	118.413014	object impact	m
+audio/home/a038.wav	home	117.205323	117.857328	object impact	m
+audio/home/a038.wav	home	119.279884	121.065489	people walking	m
+audio/home/a038.wav	home	138.921537	142.285291	people walking	m
+audio/home/a038.wav	home	144.315397	150.257535	object impact	m
+audio/home/a038.wav	home	152.146868	153.280467	object impact	m
+audio/home/a038.wav	home	159.830155	160.919300	people walking	m
+audio/home/a038.wav	home	160.845208	161.526850	object impact	m
+audio/home/a038.wav	home	162.504857	166.913301	object impact	m
+audio/home/a038.wav	home	168.506268	172.262706	object impact	m
+audio/home/a038.wav	home	173.270350	173.944583	object impact	m
+audio/home/a038.wav	home	176.078418	179.323625	object impact	m
+audio/home/a038.wav	home	177.908477	178.649392	cupboard	m
+audio/home/a038.wav	home	179.034668	181.138866	people walking	m
+audio/home/b029.wav	home	108.735137	116.216382	people walking	m
+audio/home/b029.wav	home	116.505605	117.041204	drawer	m
+audio/home/b029.wav	home	117.542525	118.086693	(object) rustling	m
+audio/home/b029.wav	home	119.421405	120.565445	people walking	m
+audio/home/b029.wav	home	120.869665	121.465251	drawer	m
+audio/home/b029.wav	home	122.296500	125.561511	(object) rustling	m
+audio/home/b029.wav	home	125.947142	129.147881	(object) rustling	m
+audio/home/b029.wav	home	129.147881	129.910573	drawer	m
+audio/home/b029.wav	home	130.634703	137.117592	people walking	m
+audio/home/b029.wav	home	148.729375	149.067873	object impact	m
+audio/home/b030.wav	home	0.186151	1.026491	dishes	m
+audio/home/b030.wav	home	1.202005	1.313696	cupboard	m
+audio/home/b030.wav	home	1.265829	1.760459	dishes	m
+audio/home/b030.wav	home	4.664419	5.196280	cutlery	m
+audio/home/b030.wav	home	6.153629	6.483383	cutlery	m
+audio/home/b030.wav	home	6.972695	7.664114	drawer	m
+audio/home/b030.wav	home	7.664114	8.507113	drawer	m
+audio/home/b030.wav	home	8.507113	9.937818	cutlery	m
+audio/home/b030.wav	home	10.626578	11.411073	object impact	m
+audio/home/b030.wav	home	12.145040	12.679560	cutlery	m
+audio/home/b030.wav	home	14.104947	14.705950	cutlery	m
+audio/home/b030.wav	home	14.942628	15.400028	cutlery	m
+audio/home/b030.wav	home	15.836154	16.330785	cutlery	m
+audio/home/b030.wav	home	16.703087	17.583317	dishes	m
+audio/home/b030.wav	home	18.253461	19.117735	cutlery	m
+audio/home/b030.wav	home	19.160284	19.633640	cupboard	m
+audio/home/b030.wav	home	19.928823	20.476639	cutlery	m
+audio/home/b030.wav	home	20.848942	21.564294	cutlery	m
+audio/home/b030.wav	home	21.694600	22.455161	cutlery	m
+audio/home/b030.wav	home	22.473776	23.221041	object impact	m
+audio/home/b030.wav	home	23.399214	23.816725	cutlery	m
+audio/home/b030.wav	home	24.202324	24.425705	(object) snapping	m
+audio/home/b030.wav	home	25.242112	25.755357	cutlery	m
+audio/home/b030.wav	home	27.850889	28.196598	dishes	m
+audio/home/b030.wav	home	29.130014	29.337439	object impact	m
+audio/home/b030.wav	home	30.167142	31.555299	glass jingling	m
+audio/home/b030.wav	home	32.294585	33.507228	dishes	m
+audio/home/b030.wav	home	33.613600	33.964628	cupboard	m
+audio/home/b030.wav	home	34.302359	34.964526	dishes	m
+audio/home/b030.wav	home	35.193226	35.552232	cupboard	m
+audio/home/b030.wav	home	35.552232	36.179828	dishes	m
+audio/home/b030.wav	home	36.884543	38.363116	dishes	m
+audio/home/b030.wav	home	39.349718	39.692768	cupboard	m
+audio/home/b030.wav	home	40.099642	42.769583	dishes	m
+audio/home/b030.wav	home	41.812233	42.211129	cupboard	m
+audio/home/b030.wav	home	43.843941	46.657485	dishes	m
+audio/home/b030.wav	home	49.101385	50.649100	dishes	m
+audio/home/b030.wav	home	50.649100	51.175642	glass jingling	m
+audio/home/b030.wav	home	51.925566	52.337758	glass jingling	m
+audio/home/b030.wav	home	52.337758	52.566458	object impact	m
+audio/home/b030.wav	home	52.795158	53.026517	object impact	m
+audio/home/b030.wav	home	54.584869	54.967809	object impact	m
+audio/home/b030.wav	home	56.656467	57.552652	dishes	m
+audio/home/b030.wav	home	58.052602	58.637648	cupboard	m
+audio/home/b030.wav	home	59.400869	60.406085	glass jingling	m
+audio/home/b030.wav	home	61.398006	62.166545	glass jingling	m
+audio/home/b030.wav	home	63.514812	64.996044	glass jingling	m
+audio/home/b030.wav	home	65.416214	66.977225	glass jingling	m
+audio/home/b030.wav	home	66.977225	68.857353	dishes	m
+audio/home/b030.wav	home	68.854694	69.115305	glass jingling	m
+audio/home/b030.wav	home	69.192425	69.687056	cutlery	m
+audio/home/b030.wav	home	69.687056	70.165730	glass jingling	m
+audio/home/b030.wav	home	70.623131	70.942247	cutlery	m
+audio/home/b030.wav	home	70.998092	72.218713	glass jingling	m
+audio/home/b030.wav	home	73.668033	75.792817	dishes	m
+audio/home/b030.wav	home	75.976309	76.829946	drawer	m
+audio/home/b030.wav	home	76.494873	76.827286	cutlery	m
+audio/home/b030.wav	home	76.930999	77.672945	dishes	m
+audio/home/b030.wav	home	77.672945	78.199487	cutlery	m
+audio/home/b030.wav	home	78.587745	79.422767	drawer	m
+audio/home/b030.wav	home	79.936012	81.542232	dishes	m
+audio/home/b030.wav	home	81.826777	88.235699	dishes	m
+audio/home/b030.wav	home	82.358638	83.161748	drawer	m
+audio/home/b030.wav	home	85.666812	86.672029	drawer	m
+audio/home/b030.wav	home	88.485674	88.868614	cutlery	m
+audio/home/b030.wav	home	89.262191	89.929676	dishes	m
+audio/home/b030.wav	home	90.067960	91.259328	cutlery	m
+audio/home/b030.wav	home	91.514621	92.112964	cutlery	m
+audio/home/b030.wav	home	92.450696	93.378793	dishes	m
+audio/home/b030.wav	home	94.067553	95.891835	cutlery	m
+audio/home/b030.wav	home	97.149686	98.035234	cutlery	m
+audio/home/b030.wav	home	98.367647	101.436483	cutlery	m
+audio/home/b030.wav	home	102.058761	102.452337	cutlery	m
+audio/home/b030.wav	home	104.244708	104.404266	(object) snapping	m
+audio/home/b030.wav	home	104.843052	105.186102	glass jingling	m
+audio/home/b030.wav	home	106.241845	106.672653	(object) snapping	m
+audio/home/b030.wav	home	106.981132	107.765626	cutlery	m
+audio/home/b030.wav	home	108.076765	108.603307	cutlery	m
+audio/home/b030.wav	home	108.603307	110.089858	glass jingling	m
+audio/home/b030.wav	home	110.089858	110.422271	object impact	m
+audio/home/b030.wav	home	112.007216	112.257191	cupboard	m
+audio/home/b030.wav	home	113.406010	113.996375	cutlery	m
+audio/home/b030.wav	home	114.222416	130.917525	water tap running 	m
+audio/home/b030.wav	home	114.222416	115.254226	dishes	m
+audio/home/b030.wav	home	116.275399	123.423607	washing dishes	m
+audio/home/b030.wav	home	119.562298	119.993105	dishes	m
+audio/home/b030.wav	home	124.354363	125.013871	cutlery	m
+audio/home/b030.wav	home	125.061738	125.354262	glass jingling	m
+audio/home/b030.wav	home	125.412766	130.481399	washing dishes	m
+audio/home/b030.wav	home	131.305784	132.204628	dishes	m
+audio/home/b030.wav	home	132.614161	132.832224	dishes	m
+audio/home/b030.wav	home	133.082198	134.885206	dishes	m
+audio/home/b030.wav	home	135.778732	136.911596	cutlery	m
+audio/home/b030.wav	home	137.188164	140.007025	dishes	m
+audio/home/b030.wav	home	140.081486	148.591258	water tap running 	m
+audio/home/b030.wav	home	141.134570	148.527435	washing dishes	m
+audio/home/b030.wav	home	143.597086	143.916202	cutlery	m
+audio/home/b030.wav	home	145.272447	145.570289	cutlery	m
+audio/home/b030.wav	home	146.277664	146.490408	glass jingling	m
+audio/home/b030.wav	home	147.219057	147.367978	cutlery	m
+audio/home/b030.wav	home	147.426483	147.676458	cupboard	m
+audio/home/b030.wav	home	148.633807	148.995472	cutlery	m
+audio/home/b030.wav	home	149.654980	150.006008	cutlery	m
+audio/home/b030.wav	home	150.213433	150.782524	dishes	m
+audio/home/b030.wav	home	151.681369	153.064207	cutlery	m
+audio/home/b030.wav	home	153.362049	158.090291	water tap running 	m
+audio/home/b030.wav	home	154.686382	155.510767	cutlery	m
+audio/home/b030.wav	home	155.037410	158.063698	washing dishes	m
+audio/home/b030.wav	home	156.952109	157.292500	dishes	m
+audio/home/b030.wav	home	157.292500	157.430784	cutlery	m
+audio/home/b030.wav	home	158.090291	158.813622	cutlery	m
+audio/home/b030.wav	home	158.946587	159.393350	dishes	m
+audio/home/b030.wav	home	159.403987	159.818839	cutlery	m
+audio/home/b030.wav	home	160.052857	160.568762	cutlery	m
+audio/home/b030.wav	home	160.590037	161.611209	water tap running 	m
+audio/home/b030.wav	home	161.286774	161.520793	cutlery	m
+audio/home/b030.wav	home	161.925007	163.493997	cutlery	m
+audio/home/b030.wav	home	163.552501	163.850343	glass jingling	m
+audio/home/b030.wav	home	163.850343	165.371465	cutlery	m
+audio/home/b030.wav	home	165.371465	166.020335	dishes	m
+audio/home/b030.wav	home	166.020335	166.206486	cutlery	m
+audio/home/b030.wav	home	166.945773	167.706334	cutlery	m
+audio/home/b030.wav	home	167.738245	170.434779	people walking	m
+audio/home/b030.wav	home	170.434779	171.429359	cutlery	m
+audio/home/b030.wav	home	172.221832	172.907932	people walking	m
+audio/home/b030.wav	home	173.354695	175.237482	drawer	m
+audio/home/b030.wav	home	174.397142	175.498094	glass jingling	m
+audio/home/b030.wav	home	175.902308	177.891467	dishes	m
+audio/home/b030.wav	home	176.939436	189.002038	water tap running 	m
+audio/home/b030.wav	home	178.667984	179.572147	glass jingling	m
+audio/home/b030.wav	home	179.992317	180.359301	glass jingling	m
+audio/home/b030.wav	home	181.454934	183.124977	glass jingling	m
+audio/home/b030.wav	home	184.874799	186.220407	dishes	m
+audio/home/b030.wav	home	190.039167	192.948445	object impact	m
+audio/home/b030.wav	home	191.187986	192.948445	dishes	m
+audio/home/b030.wav	home	194.272778	196.846985	dishes	m
+audio/home/b030.wav	home	197.096959	212.855993	water tap running 	m
+audio/home/b030.wav	home	197.623501	211.712493	washing dishes	m
+audio/home/b030.wav	home	207.367190	208.074565	cupboard	m
+audio/home/b030.wav	home	208.170300	208.819170	washing dishes	m
+audio/home/b030.wav	home	213.659103	214.031406	(object) snapping	m
+audio/home/b030.wav	home	215.392969	217.286393	dishes	m
+audio/home/b030.wav	home	218.227787	219.137269	dishes	m
+audio/home/b030.wav	home	219.799435	220.488195	dishes	m
+audio/home/b030.wav	home	221.769980	221.988042	(object) snapping	m
+audio/home/b030.wav	home	222.150260	228.077848	water tap running 	m
+audio/home/b030.wav	home	222.631594	227.990091	washing dishes	m
+audio/home/b030.wav	home	228.077848	230.917985	water tap running 	m
+audio/home/b030.wav	home	228.521952	229.109658	dishes	m
+audio/home/b030.wav	home	229.383566	229.830329	dishes	m
+audio/home/b030.wav	home	230.917985	235.034587	washing dishes	m
+audio/home/b030.wav	home	232.534841	232.928418	object impact	m
+audio/home/b030.wav	home	235.034587	235.558470	dishes	m
+audio/home/b030.wav	home	235.444120	238.361376	water tap running 	m
+audio/home/b030.wav	home	236.092990	236.994494	dishes	m
+audio/home/b030.wav	home	237.826856	238.361376	water tap running 	m
+audio/home/b030.wav	home	238.361376	242.360969	washing dishes	m
+audio/home/b030.wav	home	239.611249	241.079184	dishes	m
+audio/home/b030.wav	home	242.360969	245.389916	water tap running 	m
+audio/home/b030.wav	home	247.262066	247.751378	object impact	m
+audio/home/b030.wav	home	247.751378	248.214096	dishes	m
+audio/home/b030.wav	home	248.655541	250.711183	cupboard	m
+audio/home/b030.wav	home	250.711183	251.187198	dishes	m
+audio/home/b030.wav	home	251.309526	252.386544	dishes	m
+audio/home/b030.wav	home	252.468982	253.008821	cutlery	m
+audio/home/b030.wav	home	253.008821	254.628337	dishes	m
+audio/home/b030.wav	home	254.133707	256.697275	washing dishes	m
+audio/home/b030.wav	home	255.468677	257.989697	dishes	m
+audio/home/b030.wav	home	258.237012	258.864608	dishes	m
+audio/home/b030.wav	home	258.388593	260.561244	washing dishes	m
+audio/home/b030.wav	home	260.561244	261.699426	dishes	m
+audio/home/b030.wav	home	262.154167	264.879953	washing dishes	m
+audio/home/b030.wav	home	264.879953	266.190990	water tap running 	m
+audio/home/b030.wav	home	269.172069	270.177286	glass jingling	m
+audio/home/b030.wav	home	270.945825	271.246326	object impact	m
+audio/home/b030.wav	home	273.041356	275.269853	dishes	m
+audio/home/b030.wav	home	275.796395	277.344110	water tap running 	m
+audio/home/b030.wav	home	277.344110	278.609939	object impact	m
+audio/home/b030.wav	home	281.731961	282.067034	cutlery	m
+audio/home/b030.wav	home	283.210534	284.263618	dishes	m
+audio/home/b030.wav	home	285.157145	286.369787	water tap running 	m
+audio/home/b030.wav	home	287.284588	287.614341	object impact	m
+audio/home/b030.wav	home	287.896227	296.217189	washing dishes	m
+audio/home/b030.wav	home	288.215344	289.183330	object impact	m
+audio/home/b030.wav	home	291.863909	292.071334	object impact	m
+audio/home/b030.wav	home	292.698930	294.400884	object impact	m
+audio/home/b030.wav	home	296.217189	301.075737	washing dishes	m
+audio/home/b032.wav	home	0.000000	59.117809	water tap running 	m
+audio/home/b032.wav	home	0.361414	1.201171	dishes	m
+audio/home/b032.wav	home	1.998408	2.285414	dishes	m
+audio/home/b032.wav	home	3.603513	4.485789	dishes	m
+audio/home/b032.wav	home	5.155468	6.654275	dishes	m
+audio/home/b032.wav	home	7.467457	8.341760	cutlery	m
+audio/home/b032.wav	home	9.981412	11.355318	dishes	m
+audio/home/b032.wav	home	12.362494	12.559146	dishes	m
+audio/home/b032.wav	home	15.668372	16.638344	glass jingling	m
+audio/home/b032.wav	home	16.816394	18.262051	dishes	m
+audio/home/b032.wav	home	19.205448	19.487139	cupboard	m
+audio/home/b032.wav	home	19.710365	20.515575	dishes	m
+audio/home/b032.wav	home	21.424426	22.314674	dishes	m
+audio/home/b032.wav	home	23.975585	24.166922	dishes	m
+audio/home/b032.wav	home	24.738276	25.479707	dishes	m
+audio/home/b032.wav	home	29.463236	30.146203	dishes	m
+audio/home/b032.wav	home	31.445700	32.025026	object impact	m
+audio/home/b032.wav	home	33.430821	34.121760	dishes	m
+audio/home/b032.wav	home	34.422053	35.176771	cutlery	m
+audio/home/b032.wav	home	34.996224	35.176771	object impact	m
+audio/home/b032.wav	home	39.147013	39.282543	dishes	m
+audio/home/b032.wav	home	44.467244	44.589487	dishes	m
+audio/home/b032.wav	home	50.010701	50.369458	object impact	m
+audio/home/b032.wav	home	54.794125	55.152882	(object) snapping	m
+audio/home/b032.wav	home	59.814063	65.192758	water tap running 	m
+audio/home/b032.wav	home	61.294267	62.057131	cupboard	m
+audio/home/b032.wav	home	68.509266	69.369856	washing dishes	m
+audio/home/b032.wav	home	69.582879	70.364171	water tap running 	m
+audio/home/b032.wav	home	70.784341	71.214558	object impact	m
+audio/home/b032.wav	home	74.384905	75.524954	drawer	m
+audio/home/b032.wav	home	76.577308	77.175236	object impact	m
+audio/home/b032.wav	home	77.770506	78.461445	washing dishes	m
+audio/home/b032.wav	home	78.501307	78.809572	cutlery	m
+audio/home/b032.wav	home	79.157699	80.268517	dishes	m
+audio/home/b032.wav	home	80.374815	83.388372	washing dishes	m
+audio/home/b032.wav	home	83.484041	84.414151	washing dishes	m
+audio/home/b032.wav	home	84.855289	86.662361	washing dishes	m
+audio/home/b032.wav	home	84.985505	85.360206	object impact	m
+audio/home/b032.wav	home	86.662361	87.334698	object impact	m
+audio/home/b032.wav	home	87.892764	88.336559	dishes	m
+audio/home/b032.wav	home	88.721891	89.043443	dishes	m
+audio/home/b032.wav	home	89.056730	89.465979	cutlery	m
+audio/home/b032.wav	home	89.465979	90.598056	dishes	m
+audio/home/b032.wav	home	90.738901	92.662901	washing dishes	m
+audio/home/b032.wav	home	92.755912	93.321950	dishes	m
+audio/home/b032.wav	home	93.351182	94.374304	washing dishes	m
+audio/home/b032.wav	home	94.576270	95.477149	dishes	m
+audio/home/b032.wav	home	95.777441	97.260303	washing dishes	m
+audio/home/b032.wav	home	97.746618	100.600728	washing dishes	m
+audio/home/b032.wav	home	100.800037	101.267749	(object) snapping	m
+audio/home/b032.wav	home	101.615876	101.878965	object impact	m
+audio/home/b032.wav	home	101.878965	102.123451	object impact	m
+audio/home/b032.wav	home	102.123451	102.261639	(object) snapping	m
+audio/home/b032.wav	home	102.559274	104.331798	dishes	m
+audio/home/b032.wav	home	105.214074	108.262179	washing dishes	m
+audio/home/b032.wav	home	108.573101	113.138614	washing dishes	m
+audio/home/b032.wav	home	113.138614	114.169708	dishes	m
+audio/home/b032.wav	home	114.860647	116.989271	washing dishes	m
+audio/home/b032.wav	home	117.196552	122.460976	washing dishes	m
+audio/home/b032.wav	home	122.460976	123.343253	dishes	m
+audio/home/b032.wav	home	124.664009	127.122158	cupboard	m
+audio/home/b032.wav	home	127.629732	130.529019	washing dishes	m
+audio/home/b032.wav	home	130.592798	131.002046	glass jingling	m
+audio/home/b032.wav	home	131.446101	131.883008	(object) snapping	m
+audio/home/b032.wav	home	131.977333	133.292775	dishes	m
+audio/home/b032.wav	home	133.292775	134.618847	washing dishes	m
+audio/home/b032.wav	home	138.033680	138.915956	dishes	m
+audio/home/b032.wav	home	139.125895	146.293059	dishes	m
+audio/home/b032.wav	home	146.293059	150.008185	washing dishes	m
+audio/home/b032.wav	home	150.008185	150.824025	cupboard	m
+audio/home/b032.wav	home	150.824025	153.539947	washing dishes	m
+audio/home/b032.wav	home	153.758379	156.857685	washing dishes	m
+audio/home/b032.wav	home	158.823765	161.895765	washing dishes	m
+audio/home/b032.wav	home	162.048683	163.506859	dishes	m
+audio/home/b032.wav	home	164.115797	164.509013	object impact	m
+audio/home/b032.wav	home	167.529131	169.375061	washing dishes	m
+audio/home/b032.wav	home	169.806507	170.131456	object impact	m
+audio/home/b032.wav	home	171.218261	176.584021	washing dishes	m
+audio/home/b032.wav	home	177.728171	177.971200	object impact	m
+audio/home/b032.wav	home	179.372032	179.833515	dishes	m
+audio/home/b032.wav	home	180.357803	187.219968	washing dishes	m
+audio/home/b032.wav	home	188.932096	191.124821	cupboard	m
+audio/home/b032.wav	home	191.433387	196.045483	washing dishes	m
+audio/home/b032.wav	home	196.272128	199.854763	washing dishes	m
+audio/home/b032.wav	home	200.018603	200.818688	dishes	m
+audio/home/b032.wav	home	201.864533	221.689173	washing dishes	m
+audio/home/b032.wav	home	204.032683	233.073323	(object) rustling	m
+audio/home/b032.wav	home	204.461397	205.422592	dishes	m
+audio/home/b032.wav	home	217.231360	217.665536	glass jingling	m
+audio/home/b032.wav	home	224.676523	226.017280	dishes	m
+audio/home/b032.wav	home	226.186581	231.789909	washing dishes	m
+audio/home/b032.wav	home	234.992981	238.196053	(object) rustling	m
+audio/home/b032.wav	home	241.576619	248.883883	washing dishes	m
+audio/home/b032.wav	home	260.579328	264.167424	washing dishes	m
+audio/home/b032.wav	home	265.123157	265.994240	washing dishes	m
+audio/home/b032.wav	home	266.903552	269.582336	dishes	m
+audio/home/b032.wav	home	269.836288	270.224043	(object) snapping	m
+audio/home/b032.wav	home	270.988629	272.061781	glass jingling	m
+audio/home/b032.wav	home	272.392192	273.039360	(object) snapping	m
+audio/home/b032.wav	home	275.079168	275.557035	(object) snapping	m
+audio/home/b032.wav	home	276.444501	277.296469	washing dishes	m
+audio/home/b032.wav	home	277.296469	277.626880	(object) snapping	m
+audio/home/b032.wav	home	277.626880	278.435157	dishes	m
+audio/home/b032.wav	home	280.190976	281.075712	washing dishes	m
+audio/home/b032.wav	home	281.348779	282.198016	cupboard	m
+audio/home/b032.wav	home	282.198016	285.425664	washing dishes	m
+audio/home/b032.wav	home	286.160213	287.145984	washing dishes	m
+audio/home/b032.wav	home	288.230059	290.332672	washing dishes	m
+audio/home/b032.wav	home	290.605739	290.930688	(object) snapping	m
+audio/home/b032.wav	home	290.930688	296.072533	washing dishes	m
+audio/home/b032.wav	home	297.298603	298.014037	glass jingling	m
+audio/home/b032.wav	home	298.311680	300.173995	dishes	m
+audio/home/b033.wav	home	2.935944	16.516831	(object) rustling	m
+audio/home/b033.wav	home	16.748616	17.014740	object impact	m
+audio/home/b033.wav	home	17.383879	21.452994	(object) rustling	m
+audio/home/b033.wav	home	24.414692	25.135801	(object) rustling	m
+audio/home/b033.wav	home	25.135801	25.882664	object impact	m
+audio/home/b033.wav	home	26.972912	29.204916	people walking	m
+audio/home/b033.wav	home	29.204916	33.119508	(object) rustling	m
+audio/home/b033.wav	home	38.132933	38.714542	(object) rustling	m
+audio/home/b033.wav	home	39.403459	39.772598	cupboard	m
+audio/home/b033.wav	home	43.646413	44.017698	object impact	m
+audio/home/b033.wav	home	44.549945	45.919194	dishes	m
+audio/home/b033.wav	home	47.226204	47.739136	cupboard	m
+audio/home/b033.wav	home	49.033269	50.250141	object impact	m
+audio/home/b033.wav	home	56.027598	56.246506	object impact	m
+audio/home/b033.wav	home	58.120102	59.083726	object impact	m
+audio/home/b033.wav	home	62.637764	63.311657	(object) rustling	m
+audio/home/b033.wav	home	64.796799	65.805493	cutlery	m
+audio/home/b033.wav	home	67.277757	67.430134	cupboard	m
+audio/home/b033.wav	home	68.737145	70.046301	(object) snapping	m
+audio/home/b033.wav	home	70.949833	71.269611	object impact	m
+audio/home/b033.wav	home	72.061543	72.488629	object impact	m
+audio/home/b033.wav	home	75.767958	75.956820	(object) snapping	m
+audio/home/b033.wav	home	77.330361	79.015095	(object) rustling	m
+audio/home/b033.wav	home	79.309118	79.457203	(object) snapping	m
+audio/home/b033.wav	home	79.794150	80.551744	(object) rustling	m
+audio/home/b033.wav	home	81.322214	81.607653	(object) rustling	m
+audio/home/b033.wav	home	83.206541	83.650796	object impact	m
+audio/home/b033.wav	home	86.848571	87.494564	(object) rustling	m
+audio/home/b033.wav	home	90.969194	93.302068	dishes	m
+audio/home/b033.wav	home	93.302068	96.276642	(object) rustling	m
+audio/home/b033.wav	home	97.017067	97.489222	(object) snapping	m
+audio/home/b033.wav	home	98.169554	98.594493	(object) rustling	m
+audio/home/b033.wav	home	99.407887	99.708349	(object) rustling	m
+audio/home/b033.wav	home	100.568958	102.481185	(object) rustling	m
+audio/home/b033.wav	home	103.339648	103.534948	object impact	m
+audio/home/b033.wav	home	104.198111	106.116776	(object) rustling	m
+audio/home/b033.wav	home	107.245655	107.462417	object impact	m
+audio/home/b033.wav	home	108.142749	116.714504	(object) rustling	m
+audio/home/b033.wav	home	116.978481	120.528226	(object) rustling	m
+audio/home/b033.wav	home	120.528226	124.144503	(object) rustling	m
+audio/home/b033.wav	home	125.348497	125.983760	(object) rustling	m
+audio/home/b033.wav	home	131.241847	132.297756	(object) snapping	m
+audio/home/b033.wav	home	133.928836	134.615607	drawer	m
+audio/home/b033.wav	home	137.980782	138.279098	object impact	m
+audio/home/b033.wav	home	139.684832	141.090565	(object) rustling	m
+audio/home/b033.wav	home	142.595022	143.114392	drawer	m
+audio/home/b033.wav	home	145.189727	146.015997	(object) rustling	m
+audio/home/b033.wav	home	152.885849	153.109049	object impact	m
+audio/home/b033.wav	home	161.672219	161.893273	object impact	m
+audio/home/b033.wav	home	162.713106	164.938671	(object) rustling	m
+audio/home/b033.wav	home	181.464087	182.406250	drawer	m
+audio/home/b033.wav	home	182.640182	186.556920	(object) rustling	m
+audio/home/b033.wav	home	191.754914	193.158501	water tap running 	m
+audio/home/b033.wav	home	193.276540	193.847418	object impact	m
+audio/home/b033.wav	home	194.514873	195.338998	(object) rustling	m
+audio/home/b033.wav	home	203.603852	203.897875	(object) snapping	m
+audio/home/b033.wav	home	206.320888	206.662127	(object) snapping	m
+audio/home/b033.wav	home	208.941346	209.361993	dishes	m
+audio/home/b033.wav	home	214.195141	215.184520	(object) rustling	m
+audio/home/b033.wav	home	215.918506	216.143852	drawer	m
+audio/home/b033.wav	home	217.199762	218.708511	water tap running 	m
+audio/home/b033.wav	home	219.330897	219.953283	(object) snapping	m
+audio/home/b033.wav	home	221.354724	224.101806	(object) rustling	m
+audio/home/b033.wav	home	224.101806	224.359345	object impact	m
+audio/home/b033.wav	home	225.273608	226.887519	(object) rustling	m
+audio/home/b033.wav	home	228.724630	230.973803	(object) rustling	m
+audio/home/b033.wav	home	231.315042	237.204100	(object) rustling	m
+audio/home/b033.wav	home	240.801060	240.856860	object impact	m
+audio/home/b044.wav	home	77.411472	77.643185	cupboard	m
+audio/home/b044.wav	home	143.971050	144.897902	object impact	m
+audio/home/b044.wav	home	146.365418	146.539203	cupboard	m
+audio/home/b044.wav	home	147.852244	148.038901	(object) snapping	m
+audio/home/b044.wav	home	150.642455	151.028643	cupboard	m
+audio/home/b044.wav	home	153.072224	153.181644	object impact	m
+audio/home/b044.wav	home	154.092405	154.259753	object impact	m
+audio/home/b044.wav	home	158.791031	158.966425	(object) snapping	m
+audio/home/b044.wav	home	160.577153	161.336656	cupboard	m

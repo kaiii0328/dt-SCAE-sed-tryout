@@ -1,0 +1,5 @@
+audio/residential_area/b008.wav	residential_area
+audio/residential_area/b006.wav	residential_area
+audio/residential_area/b005.wav	residential_area
+audio/residential_area/a009.wav	residential_area
+audio/residential_area/a008.wav	residential_area

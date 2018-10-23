@@ -1,0 +1,190 @@
+audio/residential_area/b008.wav	residential_area	0.580928	35.302543	bird singing
+audio/residential_area/b008.wav	residential_area	6.0774	7.239256	children shouting
+audio/residential_area/b008.wav	residential_area	11.91647	12.810205	children shouting
+audio/residential_area/b008.wav	residential_area	14.508302	15.759532	people walking
+audio/residential_area/b008.wav	residential_area	18.165169	20.406955	bird singing
+audio/residential_area/b008.wav	residential_area	31.712706	32.852219	children shouting
+audio/residential_area/b008.wav	residential_area	39.09347	39.234978	bird singing
+audio/residential_area/b008.wav	residential_area	52.264894	52.477156	bird singing
+audio/residential_area/b008.wav	residential_area	54.547642	56.573442	bird singing
+audio/residential_area/b008.wav	residential_area	60.543117	62.878	bird singing
+audio/residential_area/b008.wav	residential_area	80.801116	81.017102	bird singing
+audio/residential_area/b008.wav	residential_area	82.797125	83.854711	bird singing
+audio/residential_area/b008.wav	residential_area	85.444815	85.537913	bird singing
+audio/residential_area/b008.wav	residential_area	86.468887	86.666254	bird singing
+audio/residential_area/b008.wav	residential_area	88.058991	88.241462	bird singing
+audio/residential_area/b008.wav	residential_area	90.200232	90.390151	bird singing
+audio/residential_area/b008.wav	residential_area	93.190521	93.376716	bird singing
+audio/residential_area/b008.wav	residential_area	95.089709	95.38762	bird singing
+audio/residential_area/b008.wav	residential_area	96.236669	99.137584	bird singing
+audio/residential_area/b008.wav	residential_area	99.513698	99.815334	bird singing
+audio/residential_area/b008.wav	residential_area	102.250762	102.943407	bird singing
+audio/residential_area/b008.wav	residential_area	106.388012	106.819984	bird singing
+audio/residential_area/b008.wav	residential_area	109.147419	109.352234	bird singing
+audio/residential_area/b008.wav	residential_area	111.772767	114.025724	bird singing
+audio/residential_area/b008.wav	residential_area	116.468601	116.826095	bird singing
+audio/residential_area/b008.wav	residential_area	117.924645	122.00976	bird singing
+audio/residential_area/b008.wav	residential_area	121.719296	125.324028	people walking
+audio/residential_area/b008.wav	residential_area	126.597601	127.249283	bird singing
+audio/residential_area/b008.wav	residential_area	127.62912	130.638029	people walking
+audio/residential_area/b008.wav	residential_area	129.126127	136.685637	car passing by
+audio/residential_area/b008.wav	residential_area	135.430684	152.69467	people walking
+audio/residential_area/b008.wav	residential_area	143.407271	143.51154	bird singing
+audio/residential_area/b008.wav	residential_area	145.194742	145.26922	bird singing
+audio/residential_area/b008.wav	residential_area	147.339707	147.42908	bird singing
+audio/residential_area/b008.wav	residential_area	148.084486	148.74734	bird singing
+audio/residential_area/b008.wav	residential_area	148.888848	150.281585	bird singing
+audio/residential_area/b008.wav	residential_area	153.759705	154.258707	bird singing
+audio/residential_area/b008.wav	residential_area	165.311233	165.72831	children shouting
+audio/residential_area/b008.wav	residential_area	169.84694	172.230234	bird singing
+audio/residential_area/b008.wav	residential_area	171.12796	171.87274	bird singing
+audio/residential_area/b008.wav	residential_area	175.872205	176.140326	(object) banging
+audio/residential_area/b008.wav	residential_area	178.866218	179.320534	bird singing
+audio/residential_area/b008.wav	residential_area	180.31109	180.534524	(object) banging
+audio/residential_area/b008.wav	residential_area	187.825914	189.553802	bird singing
+audio/residential_area/b008.wav	residential_area	195.623754	197.366538	bird singing
+audio/residential_area/b008.wav	residential_area	200.338208	201.261734	bird singing
+audio/residential_area/b008.wav	residential_area	207.867927	209.554853	bird singing
+audio/residential_area/b006.wav	residential_area	1.38434	1.903468	bird singing
+audio/residential_area/b006.wav	residential_area	3.936718	4.109761	people speaking
+audio/residential_area/b006.wav	residential_area	5.698606	10.374688	car passing by
+audio/residential_area/b006.wav	residential_area	10.374688	15.691814	car passing by
+audio/residential_area/b006.wav	residential_area	12.549518	16.60422	car passing by
+audio/residential_area/b006.wav	residential_area	21.473009	31.96568	car passing by
+audio/residential_area/b006.wav	residential_area	29.011481	29.198479	bird singing
+audio/residential_area/b006.wav	residential_area	32.938913	33.345834	bird singing
+audio/residential_area/b006.wav	residential_area	34.653174	34.765726	bird singing
+audio/residential_area/b006.wav	residential_area	42.010014	42.969614	bird singing
+audio/residential_area/b006.wav	residential_area	45.396143	58.799076	car passing by
+audio/residential_area/b006.wav	residential_area	62.059355	68.965326	car passing by
+audio/residential_area/b006.wav	residential_area	68.225962	72.143017	car passing by
+audio/residential_area/b006.wav	residential_area	70.506978	77.648916	car passing by
+audio/residential_area/b006.wav	residential_area	76.033522	76.062201	bird singing
+audio/residential_area/b006.wav	residential_area	78.112985	78.750096	bird singing
+audio/residential_area/b006.wav	residential_area	82.362434	82.713078	(object) banging
+audio/residential_area/b006.wav	residential_area	89.678344	93.119853	car passing by
+audio/residential_area/b006.wav	residential_area	92.176626	94.15875	bird singing
+audio/residential_area/b006.wav	residential_area	95.4723	95.88131	bird singing
+audio/residential_area/b006.wav	residential_area	103.052744	104.568833	bird singing
+audio/residential_area/b006.wav	residential_area	114.086174	120.500547	car passing by
+audio/residential_area/b006.wav	residential_area	116.005373	116.496971	bird singing
+audio/residential_area/b006.wav	residential_area	124.519854	125.50305	car passing by
+audio/residential_area/b006.wav	residential_area	126.383994	133.809093	car passing by
+audio/residential_area/b006.wav	residential_area	133.872018	138.890252	car passing by
+audio/residential_area/b006.wav	residential_area	136.357538	141.281385	car passing by
+audio/residential_area/b006.wav	residential_area	139.920642	144.474807	car passing by
+audio/residential_area/b006.wav	residential_area	143.098332	145.804089	car passing by
+audio/residential_area/b006.wav	residential_area	144.372555	152.269588	car passing by
+audio/residential_area/b006.wav	residential_area	150.9875	160.693615	car passing by
+audio/residential_area/b006.wav	residential_area	156.654644	195.372917	people walking
+audio/residential_area/b006.wav	residential_area	165.24778	166.879886	car passing by
+audio/residential_area/b006.wav	residential_area	171.583497	172.169483	bird singing
+audio/residential_area/b006.wav	residential_area	172.744231	173.010461	bird singing
+audio/residential_area/b006.wav	residential_area	174.045421	174.308918	bird singing
+audio/residential_area/b006.wav	residential_area	176.035411	179.968196	bird singing
+audio/residential_area/b006.wav	residential_area	181.767909	185.633654	bird singing
+audio/residential_area/b006.wav	residential_area	186.352258	186.451823	bird singing
+audio/residential_area/b006.wav	residential_area	187.672585	195.239574	bird singing
+audio/residential_area/b006.wav	residential_area	196.733059	198.542556	car passing by
+audio/residential_area/b006.wav	residential_area	197.200584	203.698325	bird singing
+audio/residential_area/b006.wav	residential_area	204.890258	210.42762	car passing by
+audio/residential_area/b006.wav	residential_area	209.342171	212.84235	car passing by
+audio/residential_area/b006.wav	residential_area	211.316429	216.397588	car passing by
+audio/residential_area/b006.wav	residential_area	219.369092	222.62712	bird singing
+audio/residential_area/b005.wav	residential_area	4.113191	4.183398	bird singing
+audio/residential_area/b005.wav	residential_area	5.017642	6.009134	(object) banging
+audio/residential_area/b005.wav	residential_area	6.863707	15.084523	bird singing
+audio/residential_area/b005.wav	residential_area	15.48133	16.042269	bird singing
+audio/residential_area/b005.wav	residential_area	16.404193	22.341752	bird singing
+audio/residential_area/b005.wav	residential_area	22.67825	34.689759	car passing by
+audio/residential_area/b005.wav	residential_area	35.437763	43.041106	car passing by
+audio/residential_area/b005.wav	residential_area	39.264264	60.956752	people walking
+audio/residential_area/b005.wav	residential_area	52.726788	75.284684	wind blowing
+audio/residential_area/b005.wav	residential_area	55.582093	55.785132	bird singing
+audio/residential_area/b005.wav	residential_area	57.029534	57.655796	bird singing
+audio/residential_area/b005.wav	residential_area	58.288891	58.587629	bird singing
+audio/residential_area/b005.wav	residential_area	65.163719	76.631349	bird singing
+audio/residential_area/b005.wav	residential_area	65.92534	82.608811	car passing by
+audio/residential_area/b005.wav	residential_area	87.40955	96.029224	people walking
+audio/residential_area/b005.wav	residential_area	92.174143	93.580256	wind blowing
+audio/residential_area/b005.wav	residential_area	95.092894	100.933123	people walking
+audio/residential_area/b005.wav	residential_area	105.609386	121.699111	people walking
+audio/residential_area/b005.wav	residential_area	108.539003	118.715747	car passing by
+audio/residential_area/b005.wav	residential_area	118.075456	120.529904	wind blowing
+audio/residential_area/b005.wav	residential_area	118.565461	120.003328	bird singing
+audio/residential_area/b005.wav	residential_area	120.030795	121.56241	bird singing
+audio/residential_area/b005.wav	residential_area	125.633035	128.510084	bird singing
+audio/residential_area/b005.wav	residential_area	128.544039	129.670133	children shouting
+audio/residential_area/b005.wav	residential_area	130.819746	133.67387	bird singing
+audio/residential_area/b005.wav	residential_area	130.905527	133.306617	wind blowing
+audio/residential_area/b005.wav	residential_area	134.527815	139.576978	bird singing
+audio/residential_area/b005.wav	residential_area	140.459579	140.816344	bird singing
+audio/residential_area/b005.wav	residential_area	142.118753	145.849746	bird singing
+audio/residential_area/b005.wav	residential_area	148.223727	152.894522	wind blowing
+audio/residential_area/b005.wav	residential_area	149.884492	152.712826	bird singing
+audio/residential_area/b005.wav	residential_area	155.833214	157.691028	children shouting
+audio/residential_area/b005.wav	residential_area	157.094307	159.071562	bird singing
+audio/residential_area/b005.wav	residential_area	158.632061	160.140625	people speaking
+audio/residential_area/b005.wav	residential_area	160.243586	161.197827	bird singing
+audio/residential_area/b005.wav	residential_area	161.696439	163.438715	bird singing
+audio/residential_area/b005.wav	residential_area	163.713812	167.762885	bird singing
+audio/residential_area/b005.wav	residential_area	168.323664	173.932949	bird singing
+audio/residential_area/b005.wav	residential_area	174.110159	177.947179	bird singing
+audio/residential_area/b005.wav	residential_area	174.559043	177.219171	bird singing
+audio/residential_area/b005.wav	residential_area	178.97056	187.383277	bird singing
+audio/residential_area/b005.wav	residential_area	179.688899	180.547471	children shouting
+audio/residential_area/b005.wav	residential_area	184.163289	186.352805	bird singing
+audio/residential_area/b005.wav	residential_area	189.055278	189.403602	children shouting
+audio/residential_area/b005.wav	residential_area	191.204434	192.723912	bird singing
+audio/residential_area/b005.wav	residential_area	192.992087	194.521104	bird singing
+audio/residential_area/b005.wav	residential_area	195.010394	196.178563	bird singing
+audio/residential_area/b005.wav	residential_area	196.481906	196.74064	bird singing
+audio/residential_area/b005.wav	residential_area	197.061385	200.309943	bird singing
+audio/residential_area/b005.wav	residential_area	200.594649	200.667066	(object) banging
+audio/residential_area/a009.wav	residential_area	0.422257	4.400853	car passing by
+audio/residential_area/a009.wav	residential_area	60.279483	61.170914	bird singing
+audio/residential_area/a009.wav	residential_area	62.648812	68.124073	bird singing
+audio/residential_area/a009.wav	residential_area	79.919109	95.871027	people walking
+audio/residential_area/a009.wav	residential_area	90.97285	96.058696	car passing by
+audio/residential_area/a009.wav	residential_area	96.058696	101.557416	car passing by
+audio/residential_area/a009.wav	residential_area	105.165365	106.793399	bird singing
+audio/residential_area/a009.wav	residential_area	125.269473	129.018174	bird singing
+audio/residential_area/a009.wav	residential_area	130.847953	135.028294	bird singing
+audio/residential_area/a009.wav	residential_area	135.77428	136.374823	bird singing
+audio/residential_area/a009.wav	residential_area	137.158344	143.388975	car passing by
+audio/residential_area/a009.wav	residential_area	137.411698	138.157685	bird singing
+audio/residential_area/a009.wav	residential_area	139.208634	140.545781	bird singing
+audio/residential_area/a009.wav	residential_area	142.356792	146.926548	wind blowing
+audio/residential_area/a009.wav	residential_area	146.429223	147.071992	bird singing
+audio/residential_area/a009.wav	residential_area	149.41317	158.52453	bird singing
+audio/residential_area/a009.wav	residential_area	154.930657	156.507082	people speaking
+audio/residential_area/a009.wav	residential_area	188.673655	189.865357	wind blowing
+audio/residential_area/a009.wav	residential_area	194.782302	201.505566	bird singing
+audio/residential_area/a009.wav	residential_area	198.864116	203.020998	people speaking
+audio/residential_area/a009.wav	residential_area	203.34942	208.519718	people speaking
+audio/residential_area/a009.wav	residential_area	213.122315	213.591489	bird singing
+audio/residential_area/a009.wav	residential_area	217.462175	225.053412	people speaking
+audio/residential_area/a009.wav	residential_area	225.466285	226.113745	people speaking
+audio/residential_area/a009.wav	residential_area	226.292031	228.065509	people speaking
+audio/residential_area/a008.wav	residential_area	0.184586	3.909861	bird singing
+audio/residential_area/a008.wav	residential_area	0.184586	0.469855	people speaking
+audio/residential_area/a008.wav	residential_area	5.285864	38.343489	bird singing
+audio/residential_area/a008.wav	residential_area	57.070549	60.779044	bird singing
+audio/residential_area/a008.wav	residential_area	61.735534	69.504915	bird singing
+audio/residential_area/a008.wav	residential_area	61.735534	64.957394	people walking
+audio/residential_area/a008.wav	residential_area	62.356413	62.742365	(object) banging
+audio/residential_area/a008.wav	residential_area	63.044415	63.514269	people speaking
+audio/residential_area/a008.wav	residential_area	79.254397	79.942398	bird singing
+audio/residential_area/a008.wav	residential_area	86.201532	109.325089	people speaking
+audio/residential_area/a008.wav	residential_area	87.0909	96.068478	bird singing
+audio/residential_area/a008.wav	residential_area	97.276676	112.043534	bird singing
+audio/residential_area/a008.wav	residential_area	117.39652	119.34306	wind blowing
+audio/residential_area/a008.wav	residential_area	120.282769	132.163377	bird singing
+audio/residential_area/a008.wav	residential_area	127.162782	127.531954	(object) banging
+audio/residential_area/a008.wav	residential_area	134.982505	135.720848	bird singing
+audio/residential_area/a008.wav	residential_area	146.460381	165.47271	bird singing
+audio/residential_area/a008.wav	residential_area	148.70897	152.182538	car passing by
+audio/residential_area/a008.wav	residential_area	159.599528	163.22412	car passing by
+audio/residential_area/a008.wav	residential_area	187.975388	189.401732	people walking
+audio/residential_area/a008.wav	residential_area	193.731106	195.610524	bird singing
+audio/residential_area/a008.wav	residential_area	199.738532	200.376192	(object) banging
