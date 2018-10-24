@@ -96,6 +96,7 @@ def main():
         logging.info("------------------------BEGINNING CROSS VALIDATION------------------------------")
         validation_results = {'fold_' + str(key): {'best_score': 0, 'best_epoch': 0} for key in fold_list}
         average_validation_score = []
+        cross_validation_done = False
         if not args.evaluation_only:
             for test_fold in fold_list:
                 logging.info(
@@ -313,6 +314,7 @@ def main():
             logging.info('AVERAGE F1 SCORE: {score} (%)'.format(score=mean_f1_validation * 100))
             results_dict['valid_score'] = mean_er_validation
             results_dict['test_score'] = mean_f1_validation * 100
+            cross_validation_done = True
         ################################################################################################################
         elif args.evaluation_only:
             if not args.do_evaluation:
@@ -366,8 +368,9 @@ def main():
         if args.do_evaluation:
             fold_start_time = datetime.datetime.now()
             logging.info("Evaluation timestamp: " + fold_start_time.strftime('%Y-%m-%d %H:%M:%S'))
-            # del x_train, x_dev, x_test
-            # del y_train, y_dev, y_test
+            if cross_validation_done:
+                del x_train, x_dev, x_test
+                del y_train, y_dev, y_test
 
             data_fold_list = ['train', 'test']
 
@@ -446,7 +449,8 @@ def main():
             fold_name = 'eval'
             logging.info('Processing configuration: ' + fold_name)
             args.callbacks = ['TensorBoard', 'CSVLogger', 'LearningRateDecay']
-            args.epochs = best_epoch
+            if cross_validation_done:
+                args.epochs = best_epoch
             # Build network architecture
             if not args.standard_CNN:
                 net = CapsuleNeuralNetwork(params=args, fold_id=fold_name, paths=base_paths)
