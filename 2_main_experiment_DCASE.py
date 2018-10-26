@@ -306,8 +306,8 @@ def main():
                     average_fold_f1_score.append(
                         validation_results['fold_' + str(test_fold)]['best_score']['f1_overall_1sec'])
                     epochs_number.append(int(validation_results['fold_' + str(test_fold)]['best_epoch']))
-            best_epoch = validation_results['fold_' + str(np.argmax(average_fold_er_score) + 1)]['best_epoch']
-            # best_epoch = np.max(epochs_number)
+            # best_epoch = validation_results['fold_' + str(np.argmax(average_fold_er_score) + 1)]['best_epoch']
+            best_epoch = np.max(epochs_number) + 1
             mean_er_validation = np.mean(average_fold_er_score)
             mean_f1_validation = np.mean(average_fold_f1_score)
             logging.info('AVERAGE ER SCORE: {score} (%)'.format(score=mean_er_validation))
