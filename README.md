@@ -32,7 +32,7 @@ See:
     configs/features/features_params.py
 
 
-for tweaking the parameters. By default it extracts monophonic logmel coefficients (40 mel bands).
+for tweaking the parameters. By default it computes binaural STFT spectrograms from the input audio files.
 Please be sure to process all the wav files componing the dataset
 
 

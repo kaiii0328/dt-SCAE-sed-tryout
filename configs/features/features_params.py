@@ -4,11 +4,11 @@ params = {
     'fs': sample_rate,
     'win_length_samples': int(0.040 * sample_rate),
     'hop_length_samples': int(0.020 * sample_rate),
-    'mono': True,  # [True, False]
+    'mono': False,  # [True, False]
     'window': 'hamming_asymmetric',  # [hann_asymmetric, hamming_asymmetric]
     'n_fft': 1024,  # FFT length
     'spectrogram_type': 'magnitude',  # [magnitude, power]
-    'compute_mels': True,  # compute spectrogram or MELs
+    'compute_mels': False,  # compute MELs (set to True) or spectrogram (False)
     'n_mels': 40,  # Number of MEL bands used
     'normalize_mel_bands': False,  # [True, False]
     'fmin': 0,  # Minimum frequency when constructing MEL bands
