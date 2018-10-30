@@ -52,3 +52,8 @@ for tweaking the parameters. You may also want to change the work path:
     --root-path          ./                   """Path to parent directory"""
 
 Please notice that you will have to modify --dataset-list-filepath, --evaluation-list-filepath, --dataset-path, --evaluation-set-path accordingly.
+
+### **About Results Reproducibility**
+
+We recommend to run the experiments more than one time in order to reproduce the results we reported in the paper.
+GPUs were used to train the models, and although we fixed the seeds of the random generators we cannot assure the exact reproduction of the results for each run.
