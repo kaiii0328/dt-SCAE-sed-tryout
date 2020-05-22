@@ -49,17 +49,18 @@ def mel_compute(files, force, infold, outfold):
         # open the wav file
         # data, samplerate = sf.read(file)
         data, samplerate = librosa.core.load(file, sr=params['fs'], mono=params['mono'])
-        # downmix to mono
-        if params['mono'] and len(data.shape) > 1:
-            data = np.mean(data, axis=1)
-        else:
+        # check file lenght
+        if params['mono']:
+            file_length = len(data)
             data = np.reshape(data, (1, -1))
+        else:
+            file_length = data.shape[1]
 
         if params['pad_in_audio'] is not None:
-            if len(data) / samplerate > params['pad_in_audio']:
+            if file_length / samplerate > params['pad_in_audio']:
                 print('Truncating lenght exceeding audiofile')
                 data = data[:params['pad_in_audio']*samplerate]
-            elif len(data) / samplerate < params['pad_in_audio']:
+            elif file_length / samplerate < params['pad_in_audio']:
                 print('Padding lenght exceeding audiofile')
                 sample_to_add = (params['pad_in_audio']*samplerate) - len(data)
                 noise = np.random.normal(0, 0.00001, size=sample_to_add)
